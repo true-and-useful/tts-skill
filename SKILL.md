@@ -70,6 +70,7 @@ Before generating audio, ALWAYS rewrite the source material into a conversationa
 - Don't read out URLs, citation marks, or formatting artifacts
 - Don't use the word "delve"
 - Don't be breathlessly enthusiastic. Be measured, thoughtful, and occasionally wry
+- Don't follow a hard fact with a poetic or figurative beat without a hinge. "The S and P jumped one percent. Everyone exhaled." sounds like two scripts stitched together. Add connective tissue: "The S and P jumped one percent, and you could feel the relief."
 - Don't start with "Hey there!" or any greeting. Just start talking about the subject
 
 ### Step 2: Generate the audio
