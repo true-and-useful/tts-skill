@@ -70,7 +70,10 @@ Before generating audio, ALWAYS rewrite the source material into a conversationa
 - Don't read out URLs, citation marks, or formatting artifacts
 - Don't use the word "delve"
 - Don't be breathlessly enthusiastic. Be measured, thoughtful, and occasionally wry
-- Don't follow a hard fact with a poetic or figurative beat without a hinge. "The S and P jumped one percent. Everyone exhaled." sounds like two scripts stitched together. Add connective tissue: "The S and P jumped one percent, and you could feel the relief."
+- Don't jump registers without a bridge. This covers several related smells:
+  - **Fact-to-figurative whiplash**: "The S and P jumped one percent. Everyone exhaled." — a dry stat followed by a poetic beat with no hinge. Fix: "The S and P jumped one percent, and you could feel the relief."
+  - **Unprepared personification**: "Markets loved it." drops in a human emotion for an abstract noun with no setup. Fix: go straight to the data — "The reaction was immediate" — or bridge it naturally.
+  - **Dangling comma clause**: "Brent crude dropped more than ten percent, fell below a hundred dollars a barrel." The comma creates a micro-pause that makes the second fact sound like a half-attached afterthought. In writing your eye glides over it; in speech it dangles. Fix: join with "and" ("dropped more than ten percent and fell below...") or make two full sentences.
 - Don't start with "Hey there!" or any greeting. Just start talking about the subject
 
 ### Step 2: Generate the audio
