@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-VOICE_ID="86e30c1d-714b-4074-a1f2-1cb6b552fb49"
+VOICE_ID="5ee9feff-1265-424a-9d7f-8e4d431a12c7"
 MODEL="sonic-3"
 
 # Resolve API key: --api-key flag > env var > credentials file

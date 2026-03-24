@@ -34,7 +34,7 @@ Resolution order: `--api-key` flag > `$CARTESIA_API_KEY` env var > `~/.cartesia/
 
 ## Default voice
 
-Carson: `86e30c1d-714b-4074-a1f2-1cb6b552fb49`
+Ronald: `5ee9feff-1265-424a-9d7f-8e4d431a12c7`
 
 Natural, conversational male voice. Good for narration, briefings, and long-form content.
 
@@ -92,7 +92,7 @@ with open('script.txt') as f:
 print(json.dumps({
     'model_id': 'sonic-3',
     'transcript': text,
-    'voice': {'mode': 'id', 'id': '86e30c1d-714b-4074-a1f2-1cb6b552fb49'},
+    'voice': {'mode': 'id', 'id': '5ee9feff-1265-424a-9d7f-8e4d431a12c7'},
     'output_format': {'container': 'mp3', 'bit_rate': 128000, 'sample_rate': 44100, 'encoding': 'mp3'}
 }))
 ")" \
