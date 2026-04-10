@@ -76,6 +76,19 @@ Before generating audio, ALWAYS rewrite the source material into a conversationa
   - **Dangling comma clause**: "Brent crude dropped more than ten percent, fell below a hundred dollars a barrel." The comma creates a micro-pause that makes the second fact sound like a half-attached afterthought. In writing your eye glides over it; in speech it dangles. Fix: join with "and" ("dropped more than ten percent and fell below...") or make two full sentences.
 - Don't start with "Hey there!" or any greeting. Just start talking about the subject
 
+### Step 1b: Read it back — the spoken-aloud test
+
+Before generating audio, read the entire script back to yourself as if you were speaking it out loud to a room full of people. This is not optional. Go paragraph by paragraph and ask:
+
+- **Does this sound natural when spoken?** Sentences that read fine on a page can feel clunky, overly long, or weirdly formal when you actually say them. If a sentence makes you stumble or pause unnaturally, rewrite it.
+- **Is the pacing right?** Look for sections that rush through too many ideas without a breath, or spots that drag. A spoken script needs rhythm — moments of acceleration and moments where you let a point land.
+- **Are there awkward constructions?** Relative clauses, parentheticals, and nested qualifiers are fine in writing but murder in speech. "The company, which was founded in 2019 by two former Google engineers who had previously worked on..." — nobody talks like that. Break it up.
+- **Does anything sound robotic or written?** Phrases like "it is worth noting that", "additionally", "furthermore", "in terms of" — these are written-English filler. Replace with how you'd actually say it: "and here's the thing", "on top of that", "when it comes to".
+- **Would this hold the room?** If you imagine saying this to actual people, would they stay engaged or would their eyes glaze over? Cut or restructure anything that feels like it would lose the room.
+- **Are transitions smooth?** Each paragraph should flow into the next. If there's a jarring topic shift, add a bridge sentence. If two paragraphs say roughly the same thing, merge or cut one.
+
+Iterate until the whole script sounds like something you'd be confident delivering. This usually means 1-2 revision passes. Make the edits directly to the .txt file before moving on.
+
 ### Step 2: Generate the audio
 
 ```bash
